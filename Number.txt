@@ -1,0 +1,12 @@
+public class Number{
+public static void main(String args[]){
+int num = 50;
+if(num%5==0){
+System.out.println("number is multiple of five");
+}else{
+System.out.println("number is  not multiple of five");
+}
+
+
+}
+}
